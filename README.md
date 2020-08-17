@@ -1,1 +1,1 @@
-# logicaparacomputacao
+# lógica para Computação
